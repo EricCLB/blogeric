@@ -1,0 +1,21 @@
+npn -v
+node -v
+node -v
+npn -v
+npm -v
+npn -v
+node -v
+npm -v
+cd "C:\Users\user\Documents\Cours informatique\Hardcoders\Sites mensuels\2019 fev_blog" 
+npx gatsby blogeric
+ npx gatsby new blogeric
+npx gatsby new blogeric
+git config
+cd blogeric
+code .
+npm run develop
+cd "C:\Users\user\Documents\Cours informatique\Hardcoders\Sites mensuels\2019 fev_blog\blogeric" 
+npm run develop
+cd "C:\Users\user\Documents\Cours informatique\Hardcoders\Sites mensuels\2019 fev_blog\blogeric" 
+npm gatsby develop
+npm run develop
